@@ -1,0 +1,42 @@
+_repo: Redskin-and-Cow-Boy--A-Tale-of-the-Western-Plains_45617
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pearse, Alfred
+    alias: Pearse, A.
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '9928'
+    url: http://www.gutenberg.org/2009/agents/9928
+covers:
+- cover_type: archival
+  image_path: 45617-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2014-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Shooting -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+title: 'Redskin and Cow-Boy: A Tale of the Western Plains'
+url: http://www.gutenberg.org/ebooks/45617
